@@ -26,4 +26,5 @@ The shim answers `awal-cli` only when the requesting PID's command line matches 
 
 ---
 
-*Found while wiring a Claude agent into the agent economy. Related: [Agent Work Radar](https://github.com/thotsl4yer69/agent-work-radar) — a paid x402 API aggregating open work for AI agents.*
+*Found while wiring a Claude agent into the agent economy. If you're running an agent to earn onchain, [Agent Income Toolkit Pro](https://buy.stripe.com/aFadR967u6Cz0AX1tn1ZS01) is the field-tested playbook + scripts for finding and completing paid agent work ($29). Also: [Agent Work Radar](https://github.com/thotsl4yer69/agent-work-radar), a live x402 API aggregating open agent work.*
+
